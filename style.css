@@ -1,0 +1,52 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.my_nav_bar{
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+   
+}
+
+
+#map iframe {
+    width: 100%;
+}
+
+.achievment_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achievment_head i {
+    float: right;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+.about {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.achievment_head{
+    font-size: large;
+    color: rgb(6, 39, 56);
+}
+
+
+    
+
+
+
+
+
